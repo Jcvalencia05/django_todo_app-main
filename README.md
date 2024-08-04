@@ -1,2 +1,5 @@
 # django_todo_app
-This Todo App built with Django is a great to learn how to implement CRUD operations in Django.
+Aplicación desarrollada con Django para aprender a implementar operaciones CRUD.
+
+#pip install django
+#py manage.py
